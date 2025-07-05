@@ -1,8 +1,6 @@
 # Moiz Bhatti
 
-**Software Engineering Student**
-
-Hi! I'm a 4th year Software Engineering student at the University of Calgary.
+Hi! Below you'll find the tools I am comfortable with and some projects I am particuarly fond of. I'm constantly maintaining or updated past projects or building new ones to keep learning and growing.
 
 ---
 
@@ -47,3 +45,10 @@ Hi! I'm a 4th year Software Engineering student at the University of Calgary.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="macOS" width="40" height="40" style="padding: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="padding: 5px;" />
 </p>
+
+---
+
+## 📂 Projects
+
+### [Super Moiz World](https://github.com/abdulmoizbhatti/Super-Moiz-World-Platformer)
+> A platformer video game developed by me using C++ and SFML.
