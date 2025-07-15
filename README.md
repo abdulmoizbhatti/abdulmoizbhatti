@@ -59,4 +59,4 @@ Hi! Below you'll find the tools I am comfortable with and some projects I am par
 > A fitness tracking responsive web app developed collaboratively with a team using tools such as: React, C#, TypeScript, ASP.NET Core, PostgreSQL, GPT AI
 
 ### [Music Genre Classifer](https://github.com/abdulmoizbhatti/Music-Genre-Classifier)
-> A Python application that classifies music genres from differing audio features using machine learning + Jupyter notebook for data analysis and visualization. Supports both pre-extracted and manual feature extraction workflows
+> A Python application that classifies music genres from differing audio features using machine and deep learning + Jupyter notebook for data analysis and visualization. Supports both pre-extracted and manual feature extraction workflows
