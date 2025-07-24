@@ -1,6 +1,6 @@
 # Moiz Bhatti
 
-Hi! Below you'll find the tools I am comfortable with and some projects I am particuarly fond of. I'm constantly maintaining, updating past projects, or building new ones to keep learning and growing.
+Hi! Below you'll find the tools I am comfortable with and some projects I am particuarly fond of. I'm constantly maintaining and updating past projects, as well as building new ones to keep learning and growing.
 
 ---
 
