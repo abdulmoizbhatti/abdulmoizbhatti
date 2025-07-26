@@ -61,3 +61,6 @@ Hi! Below you'll find the tools I am comfortable with and some projects I am par
 
 ### [Music Genre Classifer](https://github.com/abdulmoizbhatti/Music-Genre-Classifier)
 > A Python application that classifies music genres from differing audio features using machine and deep learning + Jupyter notebook for data analysis and visualization. Supports both pre-extracted and manual feature extraction workflows
+
+### [Constellation Explorer](https://github.com/abdulmoizbhatti/Constellation-Explorer)
+> An interactive 3D constellation explorer built with JavaScript, HTML, and CSS. Features astronomical data, smooth animations, and visual effects.
