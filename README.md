@@ -54,9 +54,9 @@ Hi! Below you'll find the tools I am comfortable with and some projects I am par
 ## 📂 Projects
 
 ### [Super Moiz World](https://github.com/abdulmoizbhatti/Super-Moiz-World-Platformer)
-> A platformer video game developed by me using C++ and SFML
+> A platformer video game developed by me using C++, SFML, and Tiled
 
-### [Fitness Tracker](https://github.com/NickSavino/WorkoutApp)
+### [Full-Stack Fitness Tracker](https://github.com/NickSavino/WorkoutApp)
 > A fitness tracking responsive web app developed collaboratively with a team using tools such as: React, C#, TypeScript, ASP.NET Core, PostgreSQL, GPT AI
 
 ### [Music Genre Classifer](https://github.com/abdulmoizbhatti/Music-Genre-Classifier)
